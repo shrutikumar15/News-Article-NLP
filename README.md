@@ -13,7 +13,7 @@ This project has the following:
 - Aylien API for NLP of news articles
 
 ## Instructions
-Obtain an [API key](https://developer.aylien.com/signup) for Aylien NLP API
+Obtain an API key for Aylien NLP API
 1. Clone the repo
 
 ```
