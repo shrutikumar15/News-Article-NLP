@@ -31,10 +31,8 @@ $ npm install
 ```
 
 4. Crete a .env file with Aylien API key.
+Paste the following lines and update your API_ID and API_KEY with yours:
 ```
-
-
-# Paste the following lines and update your API_ID and API_KEY with yours:
 API_ID=*********
 API_KEY=********
 ```
