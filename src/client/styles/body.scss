@@ -1,0 +1,47 @@
+.about{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    padding: 10px 0;
+}
+
+.about p{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+#steps{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+
+form{
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+
+form input{
+    display: block;
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    width: 40vw;
+    margin: 10px;
+}
+
+#url{
+    background-color: #f1eeeec5;
+}
+
+#btn-submit{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    background-color: #943333;
+    border: none;
+    color: #f0ebeb;
+}
+
+#btn-submit:hover{
+    background-color: #f04949c5;
+    color: #f8f8f8;
+}
